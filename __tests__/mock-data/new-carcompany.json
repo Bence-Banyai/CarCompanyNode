@@ -1,0 +1,19 @@
+{
+  "name": "Tesla",
+  "founded": "2003-07-01T00:00:00.000Z",
+  "headquarters": {
+    "city": "Palo Alto",
+    "state": "California",
+    "country": "USA"
+  },
+  "models": [
+    {
+      "name": "Model S",
+      "year": 2012
+    },
+    {
+      "name": "Model Y",
+      "year": 2020
+    }
+  ]
+}
